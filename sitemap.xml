@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://wedo911.github.io/</loc><priority>1.0</priority></url>
+  <url><loc>https://wedo911.github.io/clearbox/</loc><priority>0.9</priority></url>
+  <url><loc>https://wedo911.github.io/clearbox/tools/scam/</loc><priority>0.8</priority></url>
+  <url><loc>https://wedo911.github.io/clearbox/tools/contract/</loc><priority>0.8</priority></url>
+  <url><loc>https://wedo911.github.io/clearbox/tools/password/</loc><priority>0.8</priority></url>
+  <url><loc>https://wedo911.github.io/clearbox/tools/photo/</loc><priority>0.8</priority></url>
+  <url><loc>https://wedo911.github.io/clearbox/tools/color/</loc><priority>0.8</priority></url>
+  <url><loc>https://wedo911.github.io/clearbox/tools/text/</loc><priority>0.8</priority></url>
+  <url><loc>https://wedo911.github.io/clearbox/tools/split/</loc><priority>0.8</priority></url>
+  <url><loc>https://wedo911.github.io/cite-lens/</loc><priority>0.7</priority></url>
+  <url><loc>https://wedo911.github.io/time-lens/</loc><priority>0.7</priority></url>
+  <url><loc>https://wedo911.github.io/dialect-lens/</loc><priority>0.7</priority></url>
+  <url><loc>https://wedo911.github.io/coherence-lens/</loc><priority>0.7</priority></url>
+  <url><loc>https://wedo911.github.io/ground-lens/</loc><priority>0.7</priority></url>
+  <url><loc>https://wedo911.github.io/surprise-lens/</loc><priority>0.7</priority></url>
+  <url><loc>https://wedo911.github.io/meaning-diff/</loc><priority>0.7</priority></url>
+  <url><loc>https://wedo911.github.io/maqam-studio/</loc><priority>0.7</priority></url>
+  <url><loc>https://wedo911.github.io/zellige-studio/</loc><priority>0.7</priority></url>
+  <url><loc>https://wedo911.github.io/doselint/</loc><priority>0.7</priority></url>
+  <url><loc>https://wedo911.github.io/deadlinelint/</loc><priority>0.7</priority></url>
+  <url><loc>https://wedo911.github.io/alertparity/</loc><priority>0.7</priority></url>
+  <url><loc>https://wedo911.github.io/sunsetlint/</loc><priority>0.7</priority></url>
+  <url><loc>https://wedo911.github.io/cellveil/</loc><priority>0.7</priority></url>
+  <url><loc>https://wedo911.github.io/synthcardlint/</loc><priority>0.7</priority></url>
+  <url><loc>https://wedo911.github.io/caveatdiff/</loc><priority>0.7</priority></url>
+  <url><loc>https://wedo911.github.io/approvelens/</loc><priority>0.7</priority></url>
+</urlset>
